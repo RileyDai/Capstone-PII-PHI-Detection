@@ -1,0 +1,87 @@
+Agent: Hi, thank you for calling Freestyle Customer Care. My name is SENSITIVE, how can I assist you today?
+
+Caller: Hi SENSITIVE, my name is SENSITIVE. I use the Freestyle Libre 3 Plus, and I was getting a high reading on my sensor. It showed SENSITIVE, but I didn’t compare it to a finger stick test.
+
+Agent: Alright, so just to confirm, the reading of SENSITIVE was on your sensor, not on a finger stick test, correct?
+
+Caller: Yes, that's correct.
+
+Agent: Got it. Are there any other concerns you’d like to mention?
+
+Caller: No, that’s about it.
+
+Agent: Alright, thank you for sharing that. I’ll do my best to assist you today. Just to clarify, moving forward, we recommend comparing sensor readings to a finger stick test when you notice any discrepancies. This helps ensure accuracy by comparing it to a blood glucose monitor. Also, it’s best to compare readings when the arrow beside the reading on your sensor is horizontal, as that indicates stable glucose levels. Now, when you received the SENSITIVE reading, can you provide me with the date and time?
+
+Caller: It started last night and continued through this morning. I changed the sensor around 7:10 AM.
+
+Agent: Thank you for that information. So, SENSITIVE. Now, at the time of the high reading, do you recall if the arrow beside the reading was pointing up, down, or across?
+
+Caller: It was pointing up.
+
+Agent: Alright, thank you. When the arrow points up, it means your glucose levels are rapidly increasing, which can cause the sensor to provide varying readings. How many days were you able to use that sensor before removing it?
+
+Caller: I think about 9 or 10 days.
+
+Agent: Understood. Could you please provide the serial number of the sensor so I can check for a possible replacement?
+
+Caller: Sure. What do I need to do to find it?
+
+Agent: Are you scanning your sensor with your phone or using a reader?
+
+Caller: I use my iPhone.
+
+Agent: Great. Can you open the Freestyle Libre app on your phone?
+
+Caller: I’ve got it open.
+
+Agent: Perfect. Now, in the top left corner, you’ll see three lines. Tap that, then scroll to the bottom and select “About.”
+
+Caller: Okay, I see it.
+
+Agent: There should be a list of your last three sensors. Could you provide the serial number for the second one?
+
+Caller: It’s SENSITIVE.
+
+Agent: Thank you. Just to confirm, that’s SENSITIVE. Correct?
+
+Caller: Yes, that’s correct.
+
+Agent: Thank you. Could you also provide the software version for your app and your iPhone's iOS version?
+
+Caller: The app version is 3.6.2.12253, and my iPhone is on iOS 18.3.2.
+
+Agent: Perfect. And just to confirm, you’re in the SENSITIVE?
+
+Caller: Yes, that’s right.
+
+Agent: Excellent. You can now close the app. I also want to confirm that you’re storing the sensors at room temperature and checking the expiration date before applying them.
+
+Caller: Yes, I keep them in the house, and I just got these sensors last week.
+
+Agent: That’s good to hear. Just a reminder, always double-check the expiration date before applying a sensor, as using an expired one can lead to inaccurate readings. Additionally, when applying a new sensor, remember that readings during the first 24 hours may vary by plus or minus 30% as the sensor adjusts to your body. After that, the variation decreases to plus or minus 20%.
+
+Caller: Got it. Thanks for the information.
+
+Agent: Based on the details you’ve provided, I’ll arrange a replacement for your sensor so you’re not short on supplies. Can you confirm your shipping address?
+
+Caller: Sure. It’s SENSITIVE.
+
+Agent: Thank you. Just to confirm, SENSITIVE. Is that correct?
+
+Caller: Yes, that’s correct.
+
+Agent: Perfect. You can expect the replacement to arrive within 3 to 5 business days via FedEx or USPS. I’d also like to confirm your email address is SENSITIVE. Is that correct?
+
+Caller: Yes, that’s right.
+
+Agent: Great. I’ll send you an email summarizing our conversation, including the case number and details of the replacement. If you have any further issues, don’t hesitate to call us. You can also visit our website at freestyle.abbott.com for additional resources.
+
+Caller: Thank you. I appreciate the help.
+
+Agent: You’re welcome! Is there anything else I can assist you with today?
+
+Caller: No, I think that’s all for now.
+
+Agent: Alright, thank you for calling Freestyle Customer Care. Have a great day!
+
+Caller: You too. Goodbye.

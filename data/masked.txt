@@ -1,78 +1,123 @@
-From: "[SENSITIVE]" <[SENSITIVE]>
-To: HR Department <[SENSITIVE]>, IT Support <[SENSITIVE]>
-Cc: [SENSITIVE] <[SENSITIVE]>
-Subject: Request for Benefits Update and Travel Reimbursement
-Date: Mon, [SENSITIVE] [SENSITIVE] 09:42:15 -0500
+Agent: Thank you for calling Freestyle Customer Care. My name is [SENSITIVE]. Good morning. How can I help you [SENSITIVE]?
 
-Hello HR and IT,
+[SENSITIVE]: Yes, I put a sensor on one of my patients [SENSITIVE] and it had to wait the 60 minutes and then now it's reading that it needs a new sensor.
 
-I need to update my personal and benefits records, and also submit a travel reimbursement.
+Agent: I see. Well, I'm really sorry here about the new situation. Yes, of course, I'm going to help with that sensor. When first, can you share with me the patient's name, please?
 
-Personal Details
-- Full Name: Emily [SENSITIVE] Preferred Name: [SENSITIVE] of Birth: [SENSITIVE]
-- SSN: [SENSITIVE] (DUMMY, TEST ONLY)
-- Personal Email: [SENSITIVE]
-- Work Email: [SENSITIVE]
-- Mobile: [SENSITIVE]
-- Alternate Phone: [SENSITIVE]
-- Home Address: [SENSITIVE], Springfield, IL 62704, USA
-- Previous Address: [SENSITIVE] Apt 4B, San Francisco, [SENSITIVE], USA
-- Emergency Contact: [SENSITIVE] (Spouse), [SENSITIVE], [SENSITIVE]
-- Child: [SENSITIVE], DOB: [SENSITIVE]
+Caller: [SENSITIVE].
 
-Government IDs
-- Driver’s License (IL): [SENSITIVE]-4567-8901
-- Passport (US): [SENSITIVE]
-- Employee ID: [SENSITIVE]
-- Student ID (old): [SENSITIVE]
+Agent: Thank you. Can you also share with me the phone number from Mr. [SENSITIVE], please?
 
-Financial (TEST / NON-FUNCTIONAL)
-- Bank: First National Bank
-- Account Number: [SENSITIVE]
-- Routing Number: 021000021
-- Credit Card (VISA, TEST): [SENSITIVE] (name: EMILY J [SENSITIVE], exp: 04/28, CVV: 123)
-- IBAN (Sample): GB82 WEST [SENSITIVE]
-- SWIFT/BIC (Sample): ABCDUS33XXX
-- Billing Address: [SENSITIVE], New York, NY [SENSITIVE], USA
+Caller: What phone number do you have on your camera? [SENSITIVE].
 
-Employment
-- Title: Senior Data Analyst
-- Manager: [SENSITIVE] — [SENSITIVE] — [SENSITIVE]
-- Work Location: [SENSITIVE], New York, NY [SENSITIVE], USA
-- Badge ID: BADGE-778899
+Agent: I'm sorry. It's [SENSITIVE]?
 
-Health/Insurance (PHI-Like; TEST ONLY)
-- Health Insurer: Orion Health
-- Member ID: [SENSITIVE]-9942
-- Group No: [SENSITIVE]
-- Medical Record No: [SENSITIVE]
-- Known Allergies: Penicillin
+Caller: Yes, area code 719.
 
-Devices / Accounts (for IT)
-- Laptop Serial: LPT-[SENSITIVE]
-- IMEI (phone): [SENSITIVE]
-- MAC Address: 00:1A:2B:3C:4D:5E
-- IP Address (office): 10.21.34.56
-- GitHub: [SENSITIVE] (username: emchen92)
-- Slack: @emily.chen
-- VPN Username: echen
-- Last 4 of SSN for verification: 6789
+Agent: Oh, thank you so much. One second. Sorry, is Escobar or Escobar?
 
-Travel Reimbursement ([SENSITIVE])
-- Flight: UA 1234 (Confirmation: ABCDEF), NYC → SFO ([SENSITIVE]), SFO → NYC ([SENSITIVE])
-- Hotel: Harbor View Inn, [SENSITIVE], San Francisco, [SENSITIVE] (Invoice: [SENSITIVE]-1006-009)
-- Rideshare Receipts: 3 trips (~$86.45 total)
-- License Plate (rental): 8XYZ321
-- Vehicle VIN (rental): 1HGCM82633A004352
-- Total Reimbursement Requested: $1,248.73
-- Project Code: DS-ALPHA-042
-- Approver: [SENSITIVE] ([SENSITIVE])
+[SENSITIVE]: Escobar.
 
-Please confirm once my records are updated and the reimbursement is processed. Let me know if you need copies of my ID, passport, or any forms. I can upload them to the secure portal.
+Agent: Escobar. Thank you so much. Also, please, can you share with me the state from Mr. [SENSITIVE], please?
 
-Thanks,
-[SENSITIVE]
-Senior Data Analyst | ACME Corp
-[SENSITIVE] | [SENSITIVE]
+[SENSITIVE]: Colorado.
 
-Confidentiality Notice: This email may contain confidential or personally identifiable information intended only for the named recipients. If you are not an intended recipient, please delete it.
+Agent: Thank you. All right, please. Can you let me know if he used Freestyle EBR3 or Freestyle EBR2?
+
+Caller: It's the Freestyle EBR2.
+
+Agent: EBR2, thank you. And also, he scanned the sensor with a reader or with his phone?
+
+[SENSITIVE]: With the reader.
+
+Agent: With the reader. Okay, well, probably as you know, we're going to need some information. Please, can you turn on his reader?
+
+Caller: Okay.
+
+Agent: Thank you. So, please, can you tap onto the little gear icon on the top right corner?
+
+Caller: Okay.
+
+Agent: Thank you. Can we go page number three where we're going to find systems status?
+
+Caller: Okay.
+
+Agent: Here on systems status, can you tap on system info?
+
+Caller: Okay.
+
+Agent: Here on info, please, can you share with me the reader's end, please?
+
+[SENSITIVE]: Yeah, it's M as in Mary, U as in Ernie, G as in girl, B as in boy, 155-[SENSITIVE].
+
+Agent: Thank you so much. Really appreciate. Can we go page number two, please? And from page number two, can you provide me sensor as end person at all, the 3MH number, please?
+
+Caller: Okay, wait a minute. Page number two, you said?
+
+Agent: Two, please, sorry.
+
+Caller: Okay, which one? It says reminders, control solution, or language?
+
+Agent: No, no, no. I mean, can we go systems status, please?
+
+[SENSITIVE]: To which one?
+
+Agent: Systems status on page number three, please.
+
+Caller: Systems status?
+
+Agent: Yes, please.
+
+Caller: Okay, and then what?
+
+Agent: Then system info.
+
+Caller: Okay.
+
+Agent: Can we go page number two?
+
+[SENSITIVE]: Oh, I see. Okay.
+
+Agent: Thank you. The sensor as end number one, please?
+
+Caller: Let's see. Three, M as in Mary, H as in Harry, [SENSITIVE], V as in Victor, L as in [SENSITIVE], T as in [SENSITIVE], M as in Mary.
+
+Agent: Thank you so much. Really, really appreciate. Can you tap now onto the OK icon, please?
+
+Caller: Okay.
+
+Agent: Thank you. Here, we are ready to return. Can we go to event or event log, please?
+
+Caller: Okay.
+
+Agent: Thank you. Here on event log, please, can you let me know the first three codes on the top, the ER codes, please?
+
+Caller: There's two things, and then there's two ER codes. So what do you want?
+
+Agent: Can you provide me both of them?
+
+Caller: The two?
+
+Agent: Yeah.
+
+[SENSITIVE]: At [SENSITIVE], the code is [SENSITIVE]. At [SENSITIVE], again, the code is [SENSITIVE], 3, 0. And then at [SENSITIVE], it's an ER, 3, 365, C.
+
+Agent: Thank you so much. Really, really appreciate. Okay. Well, in that case, yes, it's going to be necessary, right, remove that sensor and apply a new one. In relation with that, Mr. [SENSITIVE], he had another sensor or other way to monitor his glucose?
+
+[SENSITIVE]: Yes, he does.
+
+Agent: Okay, wonderful. So we're going to send a replacement. Let us know, in this occasion, it's possible that Mr. [SENSITIVE] can return the sensor?
+
+Caller: Yeah, he can return it.
+
+Agent: Thank you so much. So we're going to send. Just to make sure, right, the full address is [SENSITIVE] in Pueblo, Colorado, [SENSITIVE]?
+
+[SENSITIVE]: Yes.
+
+Agent: Thank you so much. So the replacement is going to take around three to five business days. And also, oh, he don't have email. Oh, well, he's going to receive the replacement around three to five business days. Let me know anything else that I can do for you [SENSITIVE]?
+
+Caller: No, that's it.
+
+Agent: Okay. Well, in that case, thank you for calling Freestyle Customer Care. My name is [SENSITIVE]. If you'd like to take a survey, please stay on the line. Also, remember that now we can report sensors that are falling off or give us any kind of display messages onto the website freestyle. I will continue having [SENSITIVE]. And bye now.
+
+Caller: Thank you. Bye.

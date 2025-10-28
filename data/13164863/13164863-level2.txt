@@ -1,0 +1,177 @@
+Agent: Thank you for calling Freestyle Customer Care. This is PII. How can I help you?
+
+Caller: Yes, ma'am. This is PII calling. I hope I got the right line there. I have a freestyle libre that when I put it in, it read one time, and then it tells me to replace sensor. So it's not reading.
+
+Agent: I understand, and I'm really sorry that you experienced that, but you don't need to worry. Let me help you here to check what happened to your sensor, okay? So first of all, I would like to know, is this the first time you are calling here in the customer service?
+
+Caller: Yes.
+
+Agent: Okay, got it. So since it's your first time calling here, I will be creating your profile so that next time if ever that you need assistance again, you will already have a record here, okay? So can I have your phone number?
+
+Caller: PII.
+
+Agent: Thank you so much. And you've mentioned earlier that you are PII. Did I hear you correctly?
+
+Caller: Right.
+
+Agent: Okay, got it. Thank you so much. And lastly, from what state you are calling from?
+
+Caller: PII.
+
+Agent: Okay, thank you so much. I already created your profile. So going back to your concern, are you still wearing the sensor that you are reporting?
+
+Caller: No, ma'am. No, ma'am. I had to put in a new one. I had to do that one in the dark because it's not reading.
+
+Agent: Oh, okay. Understood. So you are already using a new sensor, correct?
+
+Caller: Yes.
+
+Caller: Okay, got it. Yes, I'm with the PII. Oh, my goodness. I just, yeah, through PII. There we go. They give me two boxes, like once a month. And one, like I said, it registered. I put it in my arm. I went in to start the sensor. It said PHI. And, okay, well, a couple hours go by, and I'm going to eat lunch. I go to do it, and it's saying, please replace sensor.
+
+Agent: Understood. So what you are using to scan and monitor the sensor, do you have the application that you download on your phone or the handheld reader?
+
+Caller: Excuse me, I'm sorry. I didn't understand that.
+
+Agent: What you are using to scan the sensor, do you have the downloaded application on your phone or the handheld reader?
+
+Caller: I don't have either one, honey, that I know of.
+
+Agent: Oh, okay. So what you are using to view the glucose readings, is that by your phone?
+
+Caller: Oh, yeah, the sensor. The sensor, I have a sensor. It's a little blue sensor.
+
+Agent: Oh, okay. That's the reader or the meter that reads the sensor. Okay, got it. Thank you so much. So, yes, can you please help me to get information from that reader? Please turn it on.
+
+Caller: It's on.
+
+Agent: Okay, and then can you please help me to go to the settings? It's the small gear icon on the upper right corner.
+
+Caller: Okay.
+
+Agent: So please turn on that. Yes, and then there is an arrow going down. Please press on that so that you can see another page.
+
+Caller: Okay, that one says reminders, controls, and language.
+
+Agent: Yes, arrow down one more time.
+
+Caller: System status.
+
+Agent: Yes, can you please click on system status?
+
+Caller: Okay.
+
+Agent: And then after that, click on your system info.
+
+Caller: Okay.
+
+Agent: Okay, so on your system info, you will see the reader SN. Can I have the reader SN number?
+
+Caller: PII.
+
+Agent: Thank you so much. So just to make sure that I got it correctly, you said PII
+
+Caller: Right.
+
+Agent: Okay, thank you so much. And there is an arrow going down again. Can you please press on that to see the next page?
+
+Caller: Okay, hold on.
+
+Agent: Okay, sure.
+
+Caller: Okay.
+
+Agent: Yes.
+
+Caller: Okay, and then there is a number 1, number 2, and number 3 on the list, correct?
+
+Agent: Yes, and since you applied a new sensor, it should be the number 1, but we are looking for the serial number of the previous sensor that you had, so it should be the number 2 on the list, okay? Can you provide to me those numbers on number 2, the first line only, that starts with 3MH?
+
+Caller: PII
+
+Agent: Thank you so much. So please correct me if I'm wrong, okay? PII
+
+Caller: Yeah, PII
+
+Agent: PII
+
+Caller: Okay, thank you so much.
+
+Agent: I already got the serial number here. And after this, can you please press OK?
+
+Caller: Okay, hold on. Okay.
+
+Agent: Okay, and then do you see the event log?
+
+Caller: Okay.
+
+Agent: Press on event log, and then after that, when did you remove the previous sensor again?
+
+Caller: When did I remove it? It was last week. It was last week. It was just up to five minutes ago. I really mean last week. I'm just going to say the past.
+
+Agent: Okay. So on your event log, on the date that you removed your previous sensor, can you please look for the date and then provide to me the details on that row?
+
+Caller: I believe it was 13.
+
+Agent: 13?
+
+Caller: No. No. I have an 18, a 17, a 15, a 15, 14, 13, 13, 13, 13.
+
+Agent: When did you remove this sensor?
+
+Caller: It was 13. 3 days.
+
+Agent: 13 of March? March 15th?
+
+Caller: No.
+
+Agent: Oh, okay. It's okay. How many days you only used that sensor? Is it less than 24 hours?
+
+Caller: Oh, no, it's more than that. It's about four days.
+
+Agent: Four days only. Okay, got it.
+
+Caller: Yeah, there's four days up on this one here. So I can't think of that off the top of my head.
+
+Agent: Okay. I'll just take care of this one for you, and you don't need to worry about it anymore, okay? So, yes, as I can see here upon checking, this sensor is still covered by the warranty. So it means that we can still send you the replacement for your sensor. So I'm going to be providing you a new sensor, and I'll be sending this new sensor in the home address that you are going to provide to me. So can I please get your complete address where I can send it for you?
+
+Caller: It's PII
+
+Agent: PII?
+
+Caller: PII, yeah.
+
+Agent: Okay. So PII?
+
+Caller: Correct.
+
+Agent: Okay, got it. Thank you so much. So this is where I'm going to be sending your new sensor. And by the way, do you still have any other backup means to check your glucose readings?
+
+Caller: I do have, like, the old thing, so I think that's what I need.
+
+Agent: Yes, that's good to hear. So if ever that the readings on the sensor is unavailable, please consider using alternative ways of glucose testing before taking medication so we can reduce the chance of injury, okay?
+
+Caller: Yes, yes, ma'am.
+
+Agent: Okay, thank you so much. And, yes, I've already done processing this replacement for you, by the way. And I would like to know your email so I can at least send you the summary of our call so you can also have reference for this. So what is your email?
+
+Caller: It's PII
+
+Agent: Thank you so much. So just to clarify, after your first name, what did you say again?
+
+Caller: PII.
+
+Agent: PII?
+
+Caller: Right.
+
+Agent: Okay, got it. So it's your PII.
+
+Caller: Right.
+
+Agent: Okay, got it. Thank you so much, PII. So I'll be sending you the summary of our call today together with your case number. So in case that you want to follow up about the new sensor, you can provide your case number here so we can easily pull up the record for you, okay? And I already included here the link for the sensor support form. So if you're not yet aware about this, aside from calling us, you may also now request a replacement in our website. So all you need to do is to press the link and then there is a form that you can fill out. If ever that you have a sensor that fell off or if you have sensors receiving error messages, you can submit a report and then it will be reviewed by our team, okay?
+
+Caller: Okay.
+
+Agent: Thank you so much. Yes, and lastly, PII, I can see here that you are still using the old Freestyle Libre 2. So I would like to give you advance information because this coming September, Freestyle Libre 2 and Freestyle Libre 3 will be out of the market anymore, okay? So as early as now, we are suggesting our customers to get an upgrade with the Freestyle Libre 2 Plus and we also have the Freestyle Libre 3 Plus. You can talk about your healthcare providers so that they can also provide you a new prescription for this, okay?
+
+Caller: All right. Thank you. Thank you.

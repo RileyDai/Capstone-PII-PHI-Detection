@@ -1,0 +1,60 @@
+Agent: Thank you for calling Freestyle Customer Care. This is PII. How can I help you?
+Caller: Hi, Miss. I was calling. We had a sensor that we just put in last night, and the needle was bent when it went in. So we had to remove it because it was bleeding. So I was looking because we can't replace it with the insurance for two weeks—if getting a replacement is possible.
+Agent: Sure. Let me go ahead and verify this for you. My phone is about to lose its connection there. I'm guessing that this is the first time that you are contacting us?
+Caller: For me, yes.
+Agent: Okay, thank you. And it's your first time calling, right?
+Caller: Yes.
+Agent: Okay, thank you. Let me create a profile for you very quick. Can I have your phone number?
+Caller: It's PII.
+Agent: Thank you very much. Can I also have your first and last name? Do you want mine or for the patient?
+Caller: For the patient?
+Agent: For the patient, please.
+Caller: It's PII.
+Agent: All right, thank you. What is your relationship with him?
+Caller: He's my PII. He lives with me.
+Agent: All right, thank you. Can I have your first and last name just for a moment?
+Caller: Yes, PII.
+Agent: Thank you very much. And can I have as well an email address?
+Caller: Yeah, PII.
+Agent: PII?
+Caller: Correct.
+Agent: All right, thank you. Can you spell your email? Just want to make sure that I have it right.
+Caller: Sure PII.
+Agent: Got it. Thank you. Can I have as well your shipping address?
+Caller: Yes, PII.
+Agent: Let me repeat it back to you. I have PII.
+Caller: Correct.
+Agent: Okay, thank you very much for this information. And I will need, please, do you have the box that came with the sensor?
+Caller: I do. I saved everything. I even pulled the printer out of the garbage because I did not know what I needed to provide.
+Agent: That's okay. I will need the number at the bottom. It's the serial number.
+Caller: So is it the one next to the FN?
+Agent: That one, yeah, that one.
+Caller: Okay, good. Starts with letters first?
+Agent: Yes, that's correct.
+Caller: Okay PII.
+Agent: Thank you. Can I also have the one underneath that one?
+Caller: Yes, absolutely. So PII
+Agent: Wonderful. All right, thank you very much. So you said that the needle was bent from the sensor?
+Caller: Yes. So when he injected it, he immediately started bleeding, and the needle is actually bent. So when we gently pulled it back out, the needle, it's not even straight; it's bent.
+Agent: Understood. Okay, thank you so much for this confirmation. And my apologies, one more thing about that. Is his arm okay?
+Caller: Yes, it is. Thank you. It's not your fault. Thank you for asking, though. It's very kind.
+Agent: I'm glad to hear that he is fine. Let me go ahead and process this for you. Can I please hold this for one or two minutes?
+Caller: Absolutely.
+Agent: All right, thank you. Just a moment, please.
+Caller: Thank you.
+Agent: All right, thank you so much for holding. So I was able here to process this replacement. It says that you guys are eligible for a replacement of the sensor. So let me go ahead and send you one to the address that you provided me. And also, we are going to need the sensor back. So I will send you everything necessary for you to return the sensor, including a return box, some instructions, bubble wrap, and a prepaid label with FedEx. So you will find the address there, and you don't have to pay anything for the shipping.
+Caller: Now, I have everything. Do you want everything that I have? Like I have the box and everything.
+Agent: We need everything, yes. The box, the applicator, and the sensor. And we are going to send you a special container for the sensor because we know that it has blood. So don't worry. We are going to send you a biohazard container.
+Caller: Okay, perfect.
+Agent: All right, yes. So I will send you to your email a confirmation of this replacement with your case number. And also, you will find in the future you have another situation like this, you can call us back or you can do it online as well by going to freestyle.apple.com. I will send you the link on the email. And your sensor will take three to six business days because of the holiday. But in the email, you will be receiving as well the tracking number so you can track your sensor.
+Caller: Okay, perfect. That sounds good.
+Agent: All right, thank you.
+Caller: Thank you very much. I appreciate that.
+Agent: You're very welcome. I'm just wondering if you have any other questions for me.
+Caller: No, that is all. You were a great help, so thank you. I appreciate your help and time.
+Agent: It was a pleasure assisting you today. And by the way, at the end of the call, you will be connected to a survey so you can tell us about the services I provided you today. Number nine is the highest number.
+Caller: Okay, perfect. I will do that. Absolutely.
+Agent: Thank you. Enjoy the rest of your day and take care.
+Caller: You too. Take care.
+Agent: Thank you. Thank you for calling Freestyle Customer Care.
+Caller: You're welcome.

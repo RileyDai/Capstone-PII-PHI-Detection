@@ -1,0 +1,124 @@
+Agent: Thank you for calling Freestyle Customer Care. My name is [SENSITIVE]. Good morning. How can I help you today?
+
+Caller: Yes, I put a sensor on one of my patients today and it had to wait the 60 minutes and then now it's reading that it needs a new sensor.
+
+Agent: I see. Well, I'm really sorry here about the new situation. Yes, of course, I'm going to help with that sensor. When first, can you share with me the patient's name, please?
+
+Caller: [SENSITIVE].
+
+Agent: Thank you. Can you also share with me the phone number from [SENSITIVE], please?
+
+Caller: What phone number do you have on your camera? [SENSITIVE].
+
+Agent: I'm sorry. It’s [SENSITIVE]?
+
+Caller: Yes, area code [SENSITIVE].
+
+Agent: Oh, thank you so much. One second. Sorry, is [SENSITIVE]?
+
+Caller: [SENSITIVE].
+
+Agent: [SENSITIVE]. Thank you so much. Also, please, can you share with me the state from [SENSITIVE], please?
+
+Caller: [SENSITIVE].
+
+Agent: Thank you. All right, please. Can you let me know if he used Freestyle EBR3 or Freestyle EBR2?
+
+Caller: It's the Freestyle EBR2.
+
+Agent: EBR2, thank you. And also, he scanned the sensor with a reader or with his phone?
+
+Caller: With the reader.
+
+Agent: With the reader. Okay, well, probably as you know, we're going to need some information. Please, can you turn on his reader?
+
+Caller: Okay.
+
+Agent: Thank you. So, please, can you tap onto the little gear icon on the top right corner?
+
+Caller: Okay.
+
+Agent: Thank you. Can we go page number three where we're going to find systems status?
+
+Caller: Okay.
+
+Agent: Here on systems status, can you tap on system info?
+
+Caller: Okay.
+
+Agent: Here on info, please, can you share with me the reader's end, please?
+
+Caller: Yeah [SENSITIVE].
+
+Agent: Thank you so much. Really appreciate. Can we go page number two, please? And from page number two, can you provide me sensor as end person at all, the 3MH number, please?
+
+Caller: Okay, wait a minute. Page number two, you said?
+
+Agent: Two, please, sorry.
+
+Caller: Okay, which one? It says reminders, control solution, or language?
+
+Agent: No, no, no. I mean, can we go systems status, please?
+
+Caller: To which one?
+
+Agent: Systems status on page number three, please.
+
+Caller: Systems status?
+
+Agent: Yes, please.
+
+Caller: Okay, and then what?
+
+Agent: Then system info.
+
+Caller: Okay.
+
+Agent: Can we go page number two?
+
+Caller: Oh, I see. Okay.
+
+Agent: Thank you. The sensor as end number one, please?
+
+Caller: Let's see. [SENSITIVE].
+
+Agent: Thank you so much. Really, really appreciate. Can you tap now onto the OK icon, please?
+
+Caller: Okay.
+
+Agent: Thank you. Here, we are ready to return. Can we go to event or event log, please?
+
+Caller: Okay.
+
+Agent: Thank you. Here on event log, please, can you let me know the first three codes on the top, the ER codes, please?
+
+Caller: There's two things, and then there's two ER codes. So what do you want?
+
+Agent: Can you provide me both of them?
+
+Caller: The two?
+
+Agent: Yeah.
+
+Caller: [SENSITIVE], again, the code [SENSITIVE]. And then at [SENSITIVE], it's an [SENSITIVE].
+
+Agent: Thank you so much. Really, really appreciate. Okay. Well, in that case, yes, it's going to be necessary, right, remove that sensor and apply a new one. In relation with that, [SENSITIVE], he had another sensor or other way to monitor his glucose?
+
+Caller: Yes, he does.
+
+Agent: Okay, wonderful. So we're going to send a replacement. Let us know, in this occasion, it's possible that [SENSITIVE] can return the sensor?
+
+Caller: Yeah, he can return it.
+
+Agent: Thank you so much. So we're going to send. Just to make sure, right, the full address is [SENSITIVE]?
+
+Caller: Yes.
+
+Agent: Thank you so much. So the replacement is going to take around three to five business days. And also, oh, he don't have email. Oh, well, he's going to receive the replacement around three to five business days. Let me know anything else that I can do for you today?
+
+Caller: No, that's it.
+
+Agent: Okay. Well, in that case, thank you for calling Freestyle Customer Care. My name is [SENSITIVE]. If you'd like to take a survey, please stay on the line. Also, remember that now we can report sensors that are falling off or give us any kind of display messages onto the website freestyle. I will continue having a great day. And bye now.
+
+Caller: Thank you. Bye.
+

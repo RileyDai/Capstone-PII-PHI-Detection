@@ -1,0 +1,121 @@
+Agent: Hi, this is SENSITIVE from the Reads Department. How may I help you today?
+
+Agent: Hi, I’m SENSITIVE from the main line. I have a customer on the line who is experiencing low glucose readings. His phone number is PHONE. His name is SENSITIVE.
+
+Agent: Did the customer provide any comparison?
+
+Agent: No, he only mentioned that he was using the FreeStyle Libre 3 Plus and getting low glucose readings.
+
+Agent: Thank you for that. You can go ahead and transfer the call.
+
+Agent: Okay, thank you. Have a good one.
+
+Agent: Hi, this is SENSITIVE from the Reads Department. Am I speaking to SENSITIVE?
+
+Caller: Yes, this is SENSITIVE.
+
+Agent: Hi, SENSITIVE, how are you doing today?
+
+Caller: I’m doing well, thank you.
+
+Agent: That’s good to hear. I was informed that you’re receiving low readings from your sensor?
+
+Caller: Yeah, it keeps going off during the night, but I’m not having any issues during the day. I’m not sure if the readings are accurate. I don’t want to replace the sensor yet since I’ve only been using it for a few days.
+
+Agent: I do apologize for what you’re experiencing. No worries, SENSITIVE, I’ll assist you with this. Just to confirm, after receiving the low readings, did you perform a fingerstick test for your safety?
+
+Caller: No, I didn’t. I just ate some candy and went back to sleep. It usually goes off again after a couple of hours.
+
+Agent: I see. How many nights have you been experiencing these low readings?
+
+Caller: It’s been happening for four nights in a row.
+
+Agent: Four nights, got it. Can you share an example of a low reading you received?
+
+Caller: It’s usually under SENSITIVE. One time it was around SENSITIVE, but they’re not extremely low. As soon as it goes off, I eat some candy.
+
+Agent: I see. When you received the reading of SENSITIVE, do you remember if there was an arrow next to it? Was it pointing down, straight, or at an angle?
+
+Caller: I’m not entirely sure. I think it was at an angle, not straight down.
+
+Agent: An angled arrow down? That’s possible. I’ll need to gather some more details. What device are you using to scan the sensor? Is it a phone or a reader?
+
+Caller: I’m using my iPhone.
+
+Agent: Okay. Can you open the FreeStyle app for me?
+
+Caller: Sure. Let me open it. Alright, it’s open.
+
+Agent: Great. Please press the three lines at the top left corner and go to “About.”
+
+Caller: Okay, I see it.
+
+Agent: Can you read the full software version for me?
+
+Caller: It’s 3.6.2.12253.
+
+Agent: Thank you. Now, on the same page, there should be a list of the last three sensor serial numbers. Have you removed this sensor already, or is it still on?
+
+Caller: It’s still on.
+
+Agent: Can you provide me with the first serial number listed?
+
+Caller: Sure, it’s SENSITIVE.
+
+Agent: Let me confirm: SENSITIVE. Is that correct?
+
+Caller: Yes, that’s correct.
+
+Agent: On the same page, can you find the OS version?
+
+Caller: It says 18.3.2.
+
+Agent: Thank you. What model of iPhone are you using?
+
+Caller: It’s the iPhone 15 Pro Max.
+
+Agent: Got it. Thank you, SENSITIVE. You can close the app now. How many days have you been wearing the sensor?
+
+Caller: It says there are 7 days remaining, so about 7 or 8 days.
+
+Agent: Okay, 8 days. And where is the sensor located—on the back of your upper right arm or left arm?
+
+Caller: It’s on my left arm.
+
+Agent: Before applying the sensor, did you check the expiration date at the bottom of the box?
+
+Caller: I didn’t, but I just got it from the pharmacy.
+
+Agent: That’s fine. Where do you usually store the sensor box?
+
+Caller: I keep it in a cabinet in my bathroom, away from light.
+
+Agent: That’s a good storage place. Just a friendly reminder, SENSITIVE, if you want to compare readings with a fingertip test, the best time is when the arrow on the app is pointing to the right, indicating stable glucose. Ensure the comparison is within 10 minutes. You can now remove the sensor and dispose of it according to your local guidelines.
+
+Agent: Can you verify your home address for me?
+
+Caller: Sure, it’s SENSITIVE.
+
+Agent: Thank you. Just to confirm, that’s SENSITIVE.
+
+Caller: Yes, that’s correct.
+
+Agent: Perfect. I’ll also send you an email with a reference for our call, including a link. Is your email still SENSITIVE?
+
+Caller: Yes, that’s correct.
+
+Agent: Great. Is there anything else I can assist you with, SENSITIVE?
+
+Caller: That’s all. Do you think I need to see my healthcare provider, or should I just wait and see how the new sensor works out?
+
+Agent: You can monitor the situation with the new sensor, but for your safety, ensure you do a finger stick test as well.
+
+Caller: Alright, I have the supplies at home, so I’ll do that.
+
+Agent: Excellent. We’re all set. After this call, there will be a quick survey. If you could rate my service, I’d appreciate it. Have a great day and stay safe!
+
+Caller: Thank you. You too.
+
+Agent: You’re welcome. Goodbye!
+
+Caller: Bye.

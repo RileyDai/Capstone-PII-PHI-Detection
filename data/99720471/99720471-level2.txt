@@ -1,0 +1,53 @@
+Agent: Thank you for calling Freestyle Customer Care. My name is PII. How may I assist you today?
+Caller: PII, my name is PII and I'm a new, I guess, subscriber to Libre 3 Plus. First time that I've ever used any of these products. And my pharmacist, when they filled my prescription, gave me a 30-day prescription. So there's basically two of the, I guess, monitors there. And I will tell you that I messed it up. The first time that I tried to put one on, I didn't put it on properly. And it basically bent the little plastic or wire thing that's inside there. And so it didn't work. I had to put on the second one first, I guess. I figured out how to do it right, but now I'm coming down to my 15 days being up in about four or five days from now. And I know I'm going to have to have a second one. Is there any way of replacing that or do I need to go back to my pharmacist and purchase at my cost? What do I have to do here?
+Agent: Okay, I understand you and I apologize for the situation that you had with the sensor. No worries, you are calling the correct department. I will be more than glad to help you. But first, it is the first time that you are calling us, right?
+Caller: Absolutely, yes, ma’am.
+Agent: Okay, in this case, I need to create a new profile for you with the warranty department. So just in case that you have any situations with your sensor, you can contact us again and we can work on the cases, okay? But first, okay, so can you spell your first name for me, please?
+Caller: Listed as my physicians, they have it as PII.
+Agent: PII. Okay, thank you. And your last name?
+Caller: PII.
+Agent: PII. Okay, perfect, thank you. Also, can you provide me, please, your phone number?
+Caller: PII.
+Agent: Oh, perfect, thank you. Also, let me know, do you have an email address?
+Caller: Yes. I'm going to have to spell that for you, too. It's going to be PII.
+Agent: Okay, PII. Oh, I think that I got it, but I will ask after that, okay? So, also, can you provide me, please, your address?
+Caller: PII.
+Agent: That is PII.
+Caller: Yes, that's correct.
+Agent: Okay, perfect, thank you. Okay, I created your profile, so can you provide me, please, do you still have the box of the sensor that you couldn't apply on your arm?
+Caller: No, I'm sorry, whenever I realized that it was broken, I threw it away.
+Agent: Okay, but you couldn't apply the sensor, let me know, the needle was bent or the...?
+Caller: Yeah, I basically didn't have it, I didn't have it squared up right, and basically bent it in the process of trying to put it on.
+Agent: Okay, perfect, thank you for letting me know, because in those cases, we need the sensor serial number, and you can find the sensor serial number at the bottom of the box, but in this case, if you don't have that information, no worries, I will do a one-time exception, okay, and I will work on the case, but just to make sure, you are using the Libre 3 Plus, right?
+Caller: Libre 3 Plus. Yes, ma’am.
+Agent: Yes, ma’am. And you mentioned you don't have the sensor, right? You don't have the sensor and also the applicator? Anything?
+Caller: No, I don't.
+Agent: Okay, because I am asking because sometimes we need the sensor, we requested the sensor, but no worries, in this case, I will do a one-time exception, okay, and I will replace your sensor, but let me know, please, did you receive the sensor in that condition?
+Caller: No, it was in good condition until I tore it up.
+Agent: Okay, but did you receive the sensor, the sensor deployed before application, or did you receive the sensor broken?
+Caller: It deployed before I was able to put it on me.
+Agent: Okay, thank you, thank you so much for the information provided. Yes, in this case, we needed the sensor back to us, but no worries, in this case, we can skip that part, and you only will receive the replacement, okay? Yes, no worries, you will get the replacement between three to five business days to the address that you provided me, okay?
+Caller: Okay, thank you.
+Agent: Okay, yes, I will send you an email, but I'm not sure if I got the correct one, so can you spell your email for me again, please, because you will receive the tracking number on your email when it will be ready.
+Caller: Sure, I'll spell it again.
+Agent: Okay, thank you.
+Caller: PII.
+Agent: Okay, thank you. Okay, yes, PII. Okay, perfect, thank you.
+Caller: PII, no dots in between all that, it's all together.
+Agent: Oh, no dots
+Caller: Yeah, just continue to the PII, so it's all together, PII.
+Agent: Okay, thank you, okay, I will send the email in this moment, just to make sure that you receive it, and also let me tell you that you will see an email there, a link, just for future cases, we are not in our hours of operations, and you have any situation with your sensor, for example, if you have a sensor fell off, or any display message on the screen, you can visit that link, it's for our online support form, freestyle.abbott.com, and you can check your eligibility for replacement, just for future cases.
+Caller: Yes.
+Agent: Okay, I already placed the order successfully, you will get it between three to five business days, also you can check if you receive it, the email.
+Caller: Do you have your case number, I just got the email, so you're sending it to the right place.
+Agent: Okay, perfect, thank you so much for letting me know. Okay, so just to make sure, the street is PII.
+Caller: Yes, PII.
+Agent: PII, yes, because I cannot validate that address on the system, I don’t know why. PII, the name of the street is PII?
+Caller: Yes, PII.
+Agent: Okay, so thank you for letting me know, okay, you will get the replacement, no worries. Let me know, is there anything else I can do for you today?
+Caller: No, that’s it, thank you.
+Agent: Okay, thank you so much for calling Freestyle Customer Care, have a great rest of the day.
+Caller: Take care.
+Agent: All right, you too. Thank you, bye-bye. Also, just remember, I’m sorry, at the end of this call, you will be transferred to a short survey. The number nine is the highest score. You can provide your feedback there, okay?
+Caller: Okay, thank you.
+Agent: Bye-bye. Take care.

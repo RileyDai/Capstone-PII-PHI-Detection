@@ -1,0 +1,58 @@
+Agent: Thank you for calling Freestyle Customer Care. My name is John. How can I help you?
+Caller: Hi John, my name is Emily Hart. I put a new sensor on this morning and it seemed to be working okay. Now it's telling me to check back in seven hours. It says sensor error, check in seven hours. What am I supposed to do in between?
+Agent: I understand that. I'm very sorry to hear what happened, but do you have any backup sensor or backup device to monitor your blood sugar?
+Caller: I have a whole bunch of them. I just got a new order, three months supply, so I'm not sure, you know, I'm very tempted to just rip it off and try another one instead of waiting seven hours.
+Agent: I understand that. Actually, you can do that, and I will just process a replacement here on our end so that you won't be short of your supplies since the seven hours is really, really a long time to wait, especially as you need to check your glucose level from time to time. Okay, so you may now actually remove the sensor and just apply a new one, and then let's go ahead and process a possible replacement for this sensor. I just need to gather some important information.
+Caller: Okay.
+Agent: Okay. So Emily, let me just go ahead and verify your profile here on our end so that I can assist you further. Can you please provide me your phone number?
+Caller: Sure, it's 407-315-7890.
+Agent: 7890, okay. And do you have an active email that you can also provide?
+Caller: An active email? Sure, it's emilyhart22@gmail.com.
+Agent: Emilyhart22@gmail.com. Okay. And before we verify your profile, may I ask, in which state are you currently residing right now?
+Caller: Florida.
+Agent: Florida. Thank you so much for all this information. And so Emily, by any chance, do you still have the yellow box of this particular sensor?
+Caller: I think it's in the trash, but I can dig it out if you need me to.
+Agent: Oh, no, no, no. That's totally fine. You don't have to dig it out. It's already in the trash, and that's totally fine. Here's what we can actually do. Let's just try to gather some important information on the device that you're using to scan your sensor. So are you using your phone or is it the reader?
+Caller: The reader.
+Agent: The reader. And do you have your reader with you right now?
+Caller: I do.
+Agent: Okay. So here's what I need you to do, Emily. Please turn on the reader. And on the upper right corner, can you please click on the gear icon that looks like a wheel?
+Caller: The settings. Got it.
+Agent: Yep. And once you're on the settings, can you please press the arrow pointing downwards twice and look for system status?
+Caller: Okay. I've got it.
+Agent: Okay. Once you're on the system status, can you please go to the system info?
+Caller: Okay.
+Agent: And once you're on the system info, can you please provide me the serial number of the reader on the first page?
+Caller: Okay. MHGAD88. Oh, wait, maybe it's E88. C2543.
+Agent: Gotcha. And now, Emily, can you please press the arrow pointing downwards again to go to the second page?
+Caller: Got it. Sensor serial number and status.
+Agent: Okay. I'm sorry. You don't have to provide me the status, just the serial number.
+Caller: Oh, it's 3MH01COV140.
+Agent: Okay, got it. And I just need one more important detail, okay? So can you please click on the OK button on the upper right corner and then press down and look for the label that says event log?
+Caller: Event log. Gotcha.
+Agent: Okay. And on the event log?
+Caller: It says 2305-2025-05-30-BR33731.
+Agent: Gotcha. Thank you so much for providing me all this information. So let me just go ahead and process everything here on my end, okay? And since you still have a backup sensor, you may actually peel the old one—the one that's asking you to wait for seven hours—off your arm, and you may now apply the new one. But if you're going to dispose of the old sensor, please follow your local disposal guidelines, okay?
+Caller: Okay.
+Agent: Okay. And also, Emily, I just need to process everything here on my end, so can you please put this call on hold just for two minutes, and I'll get back to you after?
+Caller: Okay.
+Agent: Thank you so much, Emily.
+Agent: So hi, Emily. Thank you so much for patiently waiting. So I'm now processing your sensor replacement, okay? And on the email that you provided earlier, I will send you our after-call reminders, which is basically the summary of our call today, and you can check that email for the case number in regards to your sensor replacement. You can also find the link to our online sensor support form website in that email as well, where you can actually visit every time you encounter this type of concern, like when your sensor falls off or when you receive an error message. This can actually be an alternative way to request a possible replacement for your sensor in the future, but only if you don't have time to call us, okay?
+Caller: You know what? I'm not that tech-savvy, and I'm 84 years old.
+Agent: I'm sorry to hear that, Emily. Just for your future reference, of course, we always prefer our customers to call us every time that they encounter any types of concerns with the sensor, okay? And also, Emily, can you please provide me your best shipping address just to make sure that I have the correct one here on your profile?
+Caller: Sure. It's 876 Maple Lane, Boca Raton, Florida, 33432.
+Agent: 33432. Okay, got it. Thank you so much for that one. And you don't have to worry, okay, because I'll make sure that you receive this new sensor. But, Emily, due to the holiday on Monday, there will be a slight delay on the delivery, so you can expect this new sensor to arrive...
+Caller: You know, I've got a whole bunch of them. If I was down to one sensor, I would be worried, but I'm not. I've got a whole bunch of them.
+Agent: Okay, that's great. That's fine. I will make sure that you will receive this new sensor within three to seven business days, okay?
+Caller: Okay, thank you very much.
+Agent: You're very welcome. And also, just a reminder, Emily, regarding the Freestyle Libre 2 sensor, are you already aware that this will be discontinued by the end of September?
+Caller: What will be discontinued? Libre 2?
+Agent: Yep, the Libre 2 will be discontinued by the end of September, together with the Freestyle Libre 3. So if you have a chance to talk to your doctor, please ask for a new prescription for the Freestyle Libre 2 Plus or the Freestyle Libre 3 Plus. And you don't have to worry, Emily, because you can still use your reader—your old reader—with the Freestyle Libre 2 Plus.
+Caller: Okay, all right. I'll put that in my notes to my doctor.
+Agent: Okay, that's good. I'm glad you told me way far ahead of time.
+Agent: Yep, that is correct. Do you have any other questions or concerns?
+Caller: No, I don't. I'm good. Thank you very much. You were very helpful.
+Agent: You're very welcome, Emily. And after this call, if you still have time, I would really appreciate it if you could stay on the line just for a couple of seconds to answer our quick survey about the service that I have provided you. The scale will be 0 to 9, with 9 being the highest. And it would really mean a lot, Emily, if you would leave a feedback about my service to you.
+Caller: Okay, you're on 9, honey.
+Agent: Thank you. Thank you so much. And thank you for calling Freestyle Customer Care, and have a spectacular weekend.
+Caller: You too.

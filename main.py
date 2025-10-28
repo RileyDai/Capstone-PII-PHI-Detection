@@ -21,7 +21,8 @@ REGEX_PATTERNS: Dict[str, str] = {
          r"|(?:0?[1-9]|[12]\d|3[01])[-/.](?:0?[1-9]|1[0-2])[-/.](?:19|20)\d{2}"      # DD-MM-YYYY / DD/MM/YYYY
          r"|(?:0?[1-9]|1[0-2])[-/.](?:0?[1-9]|[12]\d|3[01])[-/.](?:19|20)\d{2}"      # MM-DD-YYYY / MM/DD/YYYY
          r"|(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2},\s*(?:19|20)\d{2}"  # e.g. Jan 5, 2025
-         r"|\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?,?\s*(?:19|20)\d{2})\b"
+         r"|\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?,?\s*(?:19|20)\d{2})\b",
+    "Numbers": r"\b\d{1,6}(?:-\d{1,6}+\b)",
 }
 
 
@@ -36,12 +37,12 @@ REGEX_PRESETS: Dict[str, List[str]] = {
     "low": ["Email", "Phone"],
     "medium": ["Email", "Phone", "Ssn"],
     "high": ["Email", "Phone", "Ssn", "Address"],
-    "strict": ["Email", "Phone", "Ssn", "Address", "DriverLicense", "CreditCard", "IP", "Date"],  
+    "strict": ["Email", "Phone", "Ssn", "Address", "DriverLicense", "CreditCard", "IP", "Date","Numbers"],  
 }
 
 SPACY_PRESETS: Dict[str, List[str]] = {
     "none": [],
-    "low": ["PERSON","DATE","TIME"],
+    "low": ["PERSON","DATE"],
     "medium": ["PERSON", "ORG", "GPE","DATE","TIME"],
     "high": ["PERSON", "ORG", "GPE", "LOC","DATE","TIME"],
     "strict": [
@@ -96,7 +97,7 @@ def apply_spacy_mask(text: str,
         new_text = new_text[:start] + token + new_text[end:]
     return new_text
 
-def load_spacy_model(model_name: str = "en_core_web_sm"):
+def load_spacy_model(model_name: str = "en_core_web_lg"):
     """
     Load spaCy model; if missing, print a hint and return None.
     """
@@ -107,7 +108,7 @@ def load_spacy_model(model_name: str = "en_core_web_sm"):
     except Exception as e:
         print(f"[WARN] Failed to load spaCy model: {e}")
         print("       To enable NER, install it first:")
-        print("       pip install spacy && python -m spacy download en_core_web_sm")
+        print("       pip install spacy && python -m spacy download en_core_web_trf")
         return None
 
 def resolve_labels(preset_name: str,

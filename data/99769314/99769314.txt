@@ -1,0 +1,52 @@
+Agent: Thank you for calling the Freestyle Customer Care. My name is Roman. How may I help you today?
+Caller: Good morning.
+Caller: Good morning.
+Caller: Good morning.
+Agent: Good morning. Good morning. How may I help you?
+Caller: Good morning. I'm sorry. Good morning. I'm speaking to you.
+Agent: I'm sorry. I can barely hear you. Who are you speaking to?
+Agent: I'm sorry. My name is Roman. Good morning. Can you hear me now?
+Caller: Yes.
+Caller: Okay. I've got a problem with my community. Can you help me?
+Agent: Yes, I understand, sir, to know that you're experiencing a situation with your sensor and I would be glad to help you about this. Could you please provide more details or describe the situation?
+Caller: The situation is I installed a new sensor in the past three days. The first one, after applying it, it worked for an hour or two and then it told me that the sensor needs to be replaced. The second one I just installed after this one. Last yesterday, it told me the same thing.
+Agent: Oh, I understand, sir, to know that those situations happened, but of course, let me help you with this. Just before we proceed, may I know your telephone number to find your profile?
+Caller: 310-555-3472.
+Agent: Thank you. And may I know your name?
+Caller: My name is Omar, O-M-A-R, last name is Haddad, H-A-D-D-A-D.
+Agent: Thank you. And just for validation, could you please confirm the state where you are?
+Caller: I'm in California.
+Agent: Thank you. I would also like to know what type of sensor do you use?
+Caller: A Liberty.
+Agent: Thank you. And are you using the application in your cell phone or a reader?
+Caller: A cell phone.
+Agent: Okay. We are going to retrieve some information from the system so we can identify what could have happened. Could you please open the app in your cell phone?
+Caller: From the app? Okay.
+Agent: Yes.
+Caller: Do you need me to open it?
+Agent: Sure. Take your time. Thank you.
+Caller: Okay. I'm in the app. Where do I go?
+Agent: Okay. Firstly, I would like to know what type of cell phone are you using? Is it an iPhone or an Android?
+Caller: iPhone.
+Agent: iPhone. Okay. And just to guide you better, in the top left corner of the screen you will find three lines, which is the menu button. Press it, please.
+Caller: Yes. Okay.
+Agent: Okay. Perfect. And when you press it on the menu displays, please select the option About, which is the very last one in the menu.
+Caller: Yeah. Okay.
+Caller: Okay. I'm there.
+Agent: And from the About screen, we are going to retrieve the following. Firstly, may I know the software full version number?
+Caller: 3.6.4.1258.
+Agent: Thank you. And the OS version?
+Caller: 1.8.5.
+Agent: Thank you. And just to make sure where it says country, it's showing United States, correct?
+Caller: That's right.
+Agent: Thank you. There is a section in there, too, that says last three sensors. From there, we are going to retrieve the serial numbers. I will need the first two that are listed, and they usually begin with 0H or 0J, for example.
+Caller: Okay. Maybe I'll go for that. If you knew the I number you're looking for?
+Agent: No, it's on that same screen. It says last three sensors.
+Caller: Last three sensors.
+Agent: Yes.
+Caller: It says software release version 3, software version 4.01, 003, 5759, 9817, 008. That's what you're looking for?
+Agent: There should be a section that says last three sensors itself.
+Caller: Okay.
+Caller: Yes. Let me go with that.
+Caller: Yes. The first one is 0H, 003, 5759, 9817, 008.
+Agent: Okay.
