@@ -1,0 +1,10 @@
+# config.yaml
+regex_preset: strict
+spacy_preset: low
+disable_regex: false
+disable_spacy: false
+regex_labels: ""
+spacy_labels: ""
+replace_token: "[SENSITIVE]"
+input_file: "data/email.txt"
+output_file: "data/masked.txt"
